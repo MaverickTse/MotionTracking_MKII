@@ -1,0 +1,3 @@
+LIBRARY MotionTracking2
+EXPORTS
+	GetFilterTableList
